@@ -22,7 +22,7 @@ def say_bye():
 
 
 def say_greeting():
-    print("fu")
+    print("greetings unknown person")
 
 say_hello()
 say_bye()
